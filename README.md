@@ -4,7 +4,7 @@
 
 
 
-Using:   HTML / CSS /  / JS /
+Using:   HTML / CSS / bootstrap / JS /
 
 
 
